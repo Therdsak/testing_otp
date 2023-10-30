@@ -1,0 +1,5 @@
+/otp/request-otp
+{"key": "test1", "secret": "test2", "msisdn": "0909709096"}
+
+/otp/verify-otp
+{"key": "test1", "secret": "test2", "token": "asdasdasd","pin" : "123123"}
